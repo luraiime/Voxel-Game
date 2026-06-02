@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\lifeful.dir/objects.a
-C:\Strawberry\c\bin\ar.exe qc CMakeFiles\lifeful.dir/objects.a @CMakeFiles\lifeful.dir\objects1.rsp
-C:\Strawberry\c\bin\gcc.exe -mwindows -Wl,--whole-archive CMakeFiles\lifeful.dir/objects.a -Wl,--no-whole-archive -o lifeful.exe -Wl,--out-implib,liblifeful.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lifeful.dir\linkLibs.rsp
