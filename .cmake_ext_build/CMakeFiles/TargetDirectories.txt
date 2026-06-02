@@ -1,0 +1,3 @@
+C:/Users/patri/OneDrive/Documents/Coding/C/Voxel Game/.cmake_ext_build/CMakeFiles/lifeful.dir
+C:/Users/patri/OneDrive/Documents/Coding/C/Voxel Game/.cmake_ext_build/CMakeFiles/edit_cache.dir
+C:/Users/patri/OneDrive/Documents/Coding/C/Voxel Game/.cmake_ext_build/CMakeFiles/rebuild_cache.dir
